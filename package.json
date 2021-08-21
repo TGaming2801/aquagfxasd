@@ -1,0 +1,16 @@
+{
+  "name": "aquagfx",
+  "version": "1.0.0",
+  "description": "A Discord Bot made for the Server: AquaGFX https://dsc.gg/aquagfx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TGaming",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
